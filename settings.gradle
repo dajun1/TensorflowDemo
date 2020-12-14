@@ -1,0 +1,2 @@
+include ':app','openCVLibrary430'
+rootProject.name = "TenserflowDemo"

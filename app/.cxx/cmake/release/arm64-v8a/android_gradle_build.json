@@ -1,0 +1,44 @@
+{
+  "stringTable": {
+    "0": "/Users/jfree/Desktop/a/androidcode/democode/TenserflowDemo/app/.cxx/cmake/release/arm64-v8a",
+    "1": "--target=aarch64-none-linux-android --gcc-toolchain=/Users/jfree/Library/Android/sdk/ndk/17.2.4988734/toolchains/aarch64-linux-android-4.9/prebuilt/darwin-x86_64 --sysroot=/Users/jfree/Library/Android/sdk/ndk/17.2.4988734/sysroot -Dnative_gw_EXPORTS -I../../../../src/main/cpp/native/jni/include -I../../../../src/main/cpp/third_party/tensorflow_lite/headers -isystem /Users/jfree/Library/Android/sdk/ndk/17.2.4988734/sources/cxx-stl/llvm-libc++/include -isystem /Users/jfree/Library/Android/sdk/ndk/17.2.4988734/sources/android/support/include -isystem /Users/jfree/Library/Android/sdk/ndk/17.2.4988734/sources/cxx-stl/llvm-libc++abi/include -isystem /Users/jfree/Library/Android/sdk/ndk/17.2.4988734/sysroot/usr/include/aarch64-linux-android -D__ANDROID_API__=21 -g -DANDROID -ffunction-sections -funwind-tables -fstack-protector-strong -no-canonical-prefixes -Wa,--noexecstack -Wformat -Werror=format-security -std=c++11 -O2 -DNDEBUG -fPIC"
+  },
+  "buildFiles": [
+    "/Users/jfree/Library/Android/sdk/ndk/17.2.4988734/build/cmake/android.toolchain.cmake",
+    "/Users/jfree/Desktop/a/androidcode/democode/TenserflowDemo/app/CMakeLists.txt"
+  ],
+  "cleanCommands": [
+    "/Users/jfree/Library/Android/sdk/cmake/3.10.2.4988404/bin/ninja -C \"/Users/jfree/Desktop/a/androidcode/democode/TenserflowDemo/app/.cxx/cmake/release/arm64-v8a\" clean"
+  ],
+  "buildTargetsCommand": "/Users/jfree/Library/Android/sdk/cmake/3.10.2.4988404/bin/ninja  -C \"/Users/jfree/Desktop/a/androidcode/democode/TenserflowDemo/app/.cxx/cmake/release/arm64-v8a\" {LIST_OF_TARGETS_TO_BUILD}",
+  "libraries": {
+    "native-gw-Release-arm64-v8a": {
+      "buildCommand": "/Users/jfree/Library/Android/sdk/cmake/3.10.2.4988404/bin/ninja -C \"/Users/jfree/Desktop/a/androidcode/democode/TenserflowDemo/app/.cxx/cmake/release/arm64-v8a\" native-gw",
+      "buildType": "release",
+      "toolchain": "3720541196",
+      "abi": "arm64-v8a",
+      "artifactName": "native-gw",
+      "files": [
+        {
+          "src": "/Users/jfree/Desktop/a/androidcode/democode/TenserflowDemo/app/src/main/cpp/native-gw.cpp",
+          "flagsOrdinal": 1,
+          "workingDirectoryOrdinal": 0
+        }
+      ],
+      "headers": [],
+      "output": "/Users/jfree/Desktop/a/androidcode/democode/TenserflowDemo/app/build/intermediates/cmake/release/obj/arm64-v8a/libnative-gw.so",
+      "runtimeFiles": [
+        "/Users/jfree/Library/Android/sdk/ndk/17.2.4988734/sources/cxx-stl/llvm-libc++/libs/arm64-v8a/libc++_shared.so"
+      ]
+    }
+  },
+  "toolchains": {
+    "3720541196": {
+      "cppCompilerExecutable": "/Users/jfree/Library/Android/sdk/ndk/17.2.4988734/toolchains/llvm/prebuilt/darwin-x86_64/bin/clang++"
+    }
+  },
+  "cFileExtensions": [],
+  "cppFileExtensions": [
+    "cpp"
+  ]
+}

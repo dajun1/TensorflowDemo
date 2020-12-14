@@ -1,0 +1,219 @@
+{
+  "abi": "ARM64_V8A",
+  "abiPlatformVersion": 18,
+  "buildSettings": {
+    "environmentVariables": []
+  },
+  "cmake": {
+    "cmakeArtifactsBaseFolder": "/Users/jfree/Desktop/a/androidcode/democode/TenserflowDemo/app/.cxx/cmake/debug/arm64-v8a",
+    "cmakeServerLogFile": "/Users/jfree/Desktop/a/androidcode/democode/TenserflowDemo/app/.cxx/cmake/debug/arm64-v8a/cmake_server_log.txt",
+    "cmakeWrappingBaseFolder": "/Users/jfree/Desktop/a/androidcode/democode/TenserflowDemo/app/.cxx/cxx/debug/arm64-v8a",
+    "effectiveConfiguration": {
+      "name": "traditional-android-studio-cmake-environment",
+      "description": "Composite reified CMakeSettings configuration",
+      "generator": "Ninja",
+      "inheritEnvironments": [
+        "ndk"
+      ],
+      "buildRoot": "/Users/jfree/Desktop/a/androidcode/democode/TenserflowDemo/app/.cxx/cmake/debug/arm64-v8a",
+      "cmakeToolchain": "/Users/jfree/Library/Android/sdk/ndk/17.2.4988734/build/cmake/android.toolchain.cmake",
+      "cmakeExecutable": "/Users/jfree/Library/Android/sdk/cmake/3.10.2.4988404/bin/cmake",
+      "variables": [
+        {
+          "name": "CMAKE_FIND_ROOT_PATH",
+          "value": "/Users/jfree/Desktop/a/androidcode/democode/TenserflowDemo/app/.cxx/cmake/debug/prefab/arm64-v8a/prefab"
+        },
+        {
+          "name": "CMAKE_BUILD_TYPE",
+          "value": "Debug"
+        },
+        {
+          "name": "CMAKE_TOOLCHAIN_FILE",
+          "value": "/Users/jfree/Library/Android/sdk/ndk/17.2.4988734/build/cmake/android.toolchain.cmake"
+        },
+        {
+          "name": "ANDROID_ABI",
+          "value": "arm64-v8a"
+        },
+        {
+          "name": "ANDROID_NDK",
+          "value": "/Users/jfree/Library/Android/sdk/ndk/17.2.4988734"
+        },
+        {
+          "name": "ANDROID_PLATFORM",
+          "value": "android-18"
+        },
+        {
+          "name": "CMAKE_ANDROID_ARCH_ABI",
+          "value": "arm64-v8a"
+        },
+        {
+          "name": "CMAKE_ANDROID_NDK",
+          "value": "/Users/jfree/Library/Android/sdk/ndk/17.2.4988734"
+        },
+        {
+          "name": "CMAKE_EXPORT_COMPILE_COMMANDS",
+          "value": "ON"
+        },
+        {
+          "name": "CMAKE_LIBRARY_OUTPUT_DIRECTORY",
+          "value": "/Users/jfree/Desktop/a/androidcode/democode/TenserflowDemo/app/build/intermediates/cmake/debug/obj/arm64-v8a"
+        },
+        {
+          "name": "CMAKE_MAKE_PROGRAM",
+          "value": "/Users/jfree/Library/Android/sdk/cmake/3.10.2.4988404/bin/ninja"
+        },
+        {
+          "name": "CMAKE_SYSTEM_NAME",
+          "value": "Android"
+        },
+        {
+          "name": "CMAKE_SYSTEM_VERSION",
+          "value": "18"
+        },
+        {
+          "name": "ANDROID_STL",
+          "value": "c++_shared"
+        }
+      ]
+    }
+  },
+  "cxxBuildFolder": "/Users/jfree/Desktop/a/androidcode/democode/TenserflowDemo/app/.cxx/cmake/debug/arm64-v8a",
+  "info": {
+    "abi": "ARM64_V8A",
+    "bitness": 64,
+    "deprecated": false,
+    "default": true
+  },
+  "originalCxxBuildFolder": "/Users/jfree/Desktop/a/androidcode/democode/TenserflowDemo/app/.cxx/cmake/debug/arm64-v8a",
+  "variant": {
+    "buildSystemArgumentList": [
+      "-DANDROID_STL\u003dc++_shared"
+    ],
+    "buildTargetSet": [],
+    "cFlagsList": [],
+    "cmakeSettingsConfiguration": "android-gradle-plugin-predetermined-name",
+    "cppFlagsList": [],
+    "isDebuggableEnabled": true,
+    "module": {
+      "buildSystem": "CMAKE",
+      "cmake": {
+        "cmakeExe": "/Users/jfree/Library/Android/sdk/cmake/3.10.2.4988404/bin/cmake",
+        "minimumCmakeVersion": "3.10.2",
+        "ninjaExe": "/Users/jfree/Library/Android/sdk/cmake/3.10.2.4988404/bin/ninja"
+      },
+      "cmakeToolchainFile": "/Users/jfree/Library/Android/sdk/ndk/17.2.4988734/build/cmake/android.toolchain.cmake",
+      "cxxFolder": "/Users/jfree/Desktop/a/androidcode/democode/TenserflowDemo/app/.cxx",
+      "gradleModulePathName": ":app",
+      "intermediatesFolder": "/Users/jfree/Desktop/a/androidcode/democode/TenserflowDemo/app/build/intermediates",
+      "makeFile": "/Users/jfree/Desktop/a/androidcode/democode/TenserflowDemo/app/CMakeLists.txt",
+      "moduleBuildFile": "/Users/jfree/Desktop/a/androidcode/democode/TenserflowDemo/app/build.gradle",
+      "moduleRootFolder": "/Users/jfree/Desktop/a/androidcode/democode/TenserflowDemo/app",
+      "ndkDefaultAbiList": [
+        "ARMEABI_V7A",
+        "ARM64_V8A",
+        "X86",
+        "X86_64"
+      ],
+      "ndkFolder": "/Users/jfree/Library/Android/sdk/ndk/17.2.4988734",
+      "ndkMetaAbiList": [
+        {
+          "abi": "ARMEABI_V7A",
+          "bitness": 32,
+          "deprecated": false,
+          "default": true
+        },
+        {
+          "abi": "ARM64_V8A",
+          "bitness": 64,
+          "deprecated": false,
+          "default": true
+        },
+        {
+          "abi": "X86",
+          "bitness": 32,
+          "deprecated": false,
+          "default": true
+        },
+        {
+          "abi": "X86_64",
+          "bitness": 64,
+          "deprecated": false,
+          "default": true
+        }
+      ],
+      "ndkMetaPlatforms": {
+        "min": 14,
+        "max": 28,
+        "aliases": {
+          "20": 19,
+          "25": 24,
+          "J": 16,
+          "J-MR1": 17,
+          "J-MR2": 18,
+          "K": 19,
+          "L": 21,
+          "L-MR1": 22,
+          "M": 23,
+          "N": 24,
+          "N-MR1": 24,
+          "O": 26,
+          "O-MR1": 27,
+          "P": 28
+        }
+      },
+      "ndkSupportedAbiList": [
+        "ARMEABI_V7A",
+        "ARM64_V8A",
+        "X86",
+        "X86_64"
+      ],
+      "ndkDefaultStl": "GNUSTL_STATIC",
+      "ndkVersion": "17.2.4988734",
+      "project": {
+        "compilerSettingsCacheFolder": "/Users/jfree/Desktop/a/androidcode/democode/TenserflowDemo/.cxx",
+        "cxxFolder": "/Users/jfree/Desktop/a/androidcode/democode/TenserflowDemo/.cxx",
+        "isBuildOnlyTargetAbiEnabled": true,
+        "isCmakeBuildCohabitationEnabled": false,
+        "isNativeCompilerSettingsCacheEnabled": false,
+        "rootBuildGradleFolder": "/Users/jfree/Desktop/a/androidcode/democode/TenserflowDemo",
+        "sdkFolder": "/Users/jfree/Library/Android/sdk",
+        "isPrefabEnabled": false
+      },
+      "splitsAbiFilterSet": [],
+      "stlSharedObjectMap": {
+        "GNUSTL_SHARED": {
+          "ARMEABI_V7A": "/Users/jfree/Library/Android/sdk/ndk/17.2.4988734/sources/cxx-stl/gnu-libstdc++/4.9/libs/armeabi-v7a/libgnustl_shared.so",
+          "ARM64_V8A": "/Users/jfree/Library/Android/sdk/ndk/17.2.4988734/sources/cxx-stl/gnu-libstdc++/4.9/libs/arm64-v8a/libgnustl_shared.so",
+          "X86": "/Users/jfree/Library/Android/sdk/ndk/17.2.4988734/sources/cxx-stl/gnu-libstdc++/4.9/libs/x86/libgnustl_shared.so",
+          "X86_64": "/Users/jfree/Library/Android/sdk/ndk/17.2.4988734/sources/cxx-stl/gnu-libstdc++/4.9/libs/x86_64/libgnustl_shared.so"
+        },
+        "GNUSTL_STATIC": {},
+        "LIBCXX_SHARED": {
+          "ARMEABI_V7A": "/Users/jfree/Library/Android/sdk/ndk/17.2.4988734/sources/cxx-stl/llvm-libc++/libs/armeabi-v7a/libc++_shared.so",
+          "ARM64_V8A": "/Users/jfree/Library/Android/sdk/ndk/17.2.4988734/sources/cxx-stl/llvm-libc++/libs/arm64-v8a/libc++_shared.so",
+          "X86": "/Users/jfree/Library/Android/sdk/ndk/17.2.4988734/sources/cxx-stl/llvm-libc++/libs/x86/libc++_shared.so",
+          "X86_64": "/Users/jfree/Library/Android/sdk/ndk/17.2.4988734/sources/cxx-stl/llvm-libc++/libs/x86_64/libc++_shared.so"
+        },
+        "LIBCXX_STATIC": {},
+        "NONE": {},
+        "STLPORT_SHARED": {
+          "ARMEABI_V7A": "/Users/jfree/Library/Android/sdk/ndk/17.2.4988734/sources/cxx-stl/stlport/libs/armeabi-v7a/libstlport_shared.so",
+          "ARM64_V8A": "/Users/jfree/Library/Android/sdk/ndk/17.2.4988734/sources/cxx-stl/stlport/libs/arm64-v8a/libstlport_shared.so",
+          "X86": "/Users/jfree/Library/Android/sdk/ndk/17.2.4988734/sources/cxx-stl/stlport/libs/x86/libstlport_shared.so",
+          "X86_64": "/Users/jfree/Library/Android/sdk/ndk/17.2.4988734/sources/cxx-stl/stlport/libs/x86_64/libstlport_shared.so"
+        },
+        "STLPORT_STATIC": {},
+        "SYSTEM": {}
+      }
+    },
+    "objFolder": "/Users/jfree/Desktop/a/androidcode/democode/TenserflowDemo/app/build/intermediates/cmake/debug/obj",
+    "variantName": "debug",
+    "validAbiList": [
+      "ARM64_V8A"
+    ],
+    "prefabDirectory": "/Users/jfree/Desktop/a/androidcode/democode/TenserflowDemo/app/.cxx/cmake/debug/prefab",
+    "prefabPackageDirectoryList": []
+  },
+  "prefabFolder": "/Users/jfree/Desktop/a/androidcode/democode/TenserflowDemo/app/.cxx/cmake/debug/prefab/arm64-v8a"
+}

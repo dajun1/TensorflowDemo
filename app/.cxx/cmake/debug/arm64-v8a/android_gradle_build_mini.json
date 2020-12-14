@@ -1,0 +1,21 @@
+{
+  "buildFiles": [
+    "/Users/jfree/Library/Android/sdk/ndk/17.2.4988734/build/cmake/android.toolchain.cmake",
+    "/Users/jfree/Desktop/a/androidcode/democode/TenserflowDemo/app/CMakeLists.txt"
+  ],
+  "cleanCommands": [
+    "/Users/jfree/Library/Android/sdk/cmake/3.10.2.4988404/bin/ninja -C \"/Users/jfree/Desktop/a/androidcode/democode/TenserflowDemo/app/.cxx/cmake/debug/arm64-v8a\" clean"
+  ],
+  "buildTargetsCommand": "/Users/jfree/Library/Android/sdk/cmake/3.10.2.4988404/bin/ninja  -C \"/Users/jfree/Desktop/a/androidcode/democode/TenserflowDemo/app/.cxx/cmake/debug/arm64-v8a\" {LIST_OF_TARGETS_TO_BUILD}",
+  "libraries": {
+    "native-gw-Debug-arm64-v8a": {
+      "artifactName": "native-gw",
+      "buildCommand": "/Users/jfree/Library/Android/sdk/cmake/3.10.2.4988404/bin/ninja -C \"/Users/jfree/Desktop/a/androidcode/democode/TenserflowDemo/app/.cxx/cmake/debug/arm64-v8a\" native-gw",
+      "abi": "arm64-v8a",
+      "output": "/Users/jfree/Desktop/a/androidcode/democode/TenserflowDemo/app/build/intermediates/cmake/debug/obj/arm64-v8a/libnative-gw.so",
+      "runtimeFiles": [
+        "/Users/jfree/Library/Android/sdk/ndk/17.2.4988734/sources/cxx-stl/llvm-libc++/libs/arm64-v8a/libc++_shared.so"
+      ]
+    }
+  }
+}

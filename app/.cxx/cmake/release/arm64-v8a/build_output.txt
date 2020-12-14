@@ -1,0 +1,4 @@
+OPENCV_HEADER : /Users/jfree/Desktop/a/androidcode/democode/TenserflowDemo/app/src/main/cpp/native/jni/include
+OPENCV_SHARED : /Users/jfree/Desktop/a/androidcode/democode/TenserflowDemo/app/src/main/cpp/native/libs
+TFLITE_BASE :/Users/jfree/Desktop/a/androidcode/democode/TenserflowDemo/app/src/main/cpp/third_party/tensorflow_lite
+Configuring done

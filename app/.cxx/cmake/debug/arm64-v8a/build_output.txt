@@ -1,0 +1,16 @@
+Check for working C compiler: /Users/jfree/Library/Android/sdk/ndk/17.2.4988734/toolchains/llvm/prebuilt/darwin-x86_64/bin/clang
+Check for working C compiler: /Users/jfree/Library/Android/sdk/ndk/17.2.4988734/toolchains/llvm/prebuilt/darwin-x86_64/bin/clang -- works
+Detecting C compiler ABI info
+Detecting C compiler ABI info - done
+Detecting C compile features
+Detecting C compile features - done
+Check for working CXX compiler: /Users/jfree/Library/Android/sdk/ndk/17.2.4988734/toolchains/llvm/prebuilt/darwin-x86_64/bin/clang++
+Check for working CXX compiler: /Users/jfree/Library/Android/sdk/ndk/17.2.4988734/toolchains/llvm/prebuilt/darwin-x86_64/bin/clang++ -- works
+Detecting CXX compiler ABI info
+Detecting CXX compiler ABI info - done
+Detecting CXX compile features
+Detecting CXX compile features - done
+OPENCV_HEADER : /Users/jfree/Desktop/a/androidcode/democode/TenserflowDemo/app/src/main/cpp/native/jni/include
+OPENCV_SHARED : /Users/jfree/Desktop/a/androidcode/democode/TenserflowDemo/app/src/main/cpp/native/libs
+TFLITE_BASE :/Users/jfree/Desktop/a/androidcode/democode/TenserflowDemo/app/src/main/cpp/third_party/tensorflow_lite
+Configuring done

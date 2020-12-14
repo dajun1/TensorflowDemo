@@ -1,0 +1,3 @@
+/Users/jfree/Desktop/a/androidcode/democode/TenserflowDemo/app/.cxx/cmake/release/arm64-v8a/CMakeFiles/rebuild_cache.dir
+/Users/jfree/Desktop/a/androidcode/democode/TenserflowDemo/app/.cxx/cmake/release/arm64-v8a/CMakeFiles/edit_cache.dir
+/Users/jfree/Desktop/a/androidcode/democode/TenserflowDemo/app/.cxx/cmake/release/arm64-v8a/CMakeFiles/native-gw.dir
