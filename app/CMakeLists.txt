@@ -3,13 +3,13 @@ cmake_minimum_required(VERSION 3.4.1)
 set(CMAKE_VERBOSE_MAKEFILE on)
 
 set(OPENCV_BASE ${CMAKE_SOURCE_DIR}/src/main/cpp/native)
-set(OPENCV_SHARED ${OPENCV_BASE}/libs) # OpenCV动态库
+#set(OPENCV_SHARED ${OPENCV_BASE}/libs) # OpenCV动态库
 set(OPENCV_HEADER ${OPENCV_BASE}/jni/include) # OpenCV头文件
 
 
 set(TFLITE_BASE ${CMAKE_SOURCE_DIR}/src/main/cpp/third_party/tensorflow_lite)
 set(TFLITE_HEADER ${TFLITE_BASE}/headers)
-set(TFLITE_SHARED ${TFLITE_BASE}/libs)
+#set(TFLITE_SHARED ${TFLITE_BASE}/libs)
 
 message("OPENCV_HEADER : " ${OPENCV_HEADER})
 message("OPENCV_SHARED : " ${OPENCV_SHARED})
